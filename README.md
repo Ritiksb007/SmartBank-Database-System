@@ -83,5 +83,3 @@ I focused on **data management, ETL, visualization, and business intelligence** 
 - **Business insight:** translating data into actionable recommendations.  
 
 ---
-
-## Repo Structure
